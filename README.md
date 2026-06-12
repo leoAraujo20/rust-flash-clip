@@ -27,6 +27,12 @@ Os códigos estão divididos em módulos para facilitar o acompanhamento durante
   - `if`, `else if` e `else` (Estruturas de condição).
   - Loops com `for`, `loop` e `while`.
 
+### 🛠️ [Módulo 4: Funções e Memória](./modulo-4/)
+
+- Organização e segurança:
+  - Criação de funções, parâmetros e retornos.
+  - O sistema de "Ownership" (posse) e "Borrowing" (empréstimo).
+
 ### 🏆 [Desafios Práticos](./desafios/)
 
 Use estes arquivos como base (esqueletos) para resolver os problemas propostos:
