@@ -27,8 +27,8 @@ Os códigos estão divididos em módulos para facilitar o acompanhamento durante
 ### 🏆 [Desafios Práticos](./src/desafios/)
 Use estes arquivos como base (esqueletos) para resolver os problemas propostos:
 - **Calculadora Personalizada:** Prática de operações e entradas.
-- **Jogo da Adivinhação:** Lógica de condições e repetições.
 - **Máquina de Luta:** Um desafio integrador com diversos conceitos aprendidos.
+- **Jogo da Adivinhação:** Lógica de condições e repetições.
 
 ---
 **Curso de Rust - FlashClip 2026/1**
