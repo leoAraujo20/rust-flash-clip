@@ -16,7 +16,7 @@ fn main() {
     let livro = String::from("Dom Quixote");
     let novo_dono = livro; // 'livro' deu o livro pra 'novo_dono'
 
-    println!("{}", livro); // ERRO! 'livro' não tem mais o livro!
+    // println!("{}", livro); ERRO! 'livro' não tem mais o livro!
     println!("{}", novo_dono); // OK!
 
     let livro = String::from("Dom Quixote");
