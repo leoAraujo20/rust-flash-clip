@@ -2,7 +2,7 @@
 
 Bem-vindo ao material de apoio do curso introdutório de **Rust** para o evento **FlashClip**!
 
-Este repositório foi criado pela turma de **Paradigmas de Linguagem de Programação** (1º Semestre de 2026) do **Centro Universitário Luterano de Palmas (CEULP/ULBRA)**. Aqui você encontrará exemplos práticos e desafios para aprender os fundamentos da linguagem.
+Este repositório foi criado pelo grupo de RUST da matéria de **Paradigmas de Linguagem de Programação** (1º Semestre de 2026) do **Centro Universitário Luterano de Palmas (CEULP/ULBRA)**. Aqui você encontrará exemplos práticos e desafios para aprender os fundamentos da linguagem.
 
 ## 📂 Organização do Curso
 
